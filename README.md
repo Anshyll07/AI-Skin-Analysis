@@ -5,6 +5,7 @@
 
 This project uses an AI-powered image classification model to detect the presence of **skin cancer** from an uploaded image. It also provides detailed information about various **cancer-causing skin diseases**, including their severity and whether they are harmful.
 
+check out the website : https://skin-cancer-ai-t54p.onrender.com
 ## 🚀 Features
 
 * 📷 **Image Upload & Detection**
