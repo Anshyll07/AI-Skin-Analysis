@@ -21,8 +21,6 @@ check out the website : https://skin-cancer-ai-t54p.onrender.com
 
 * **Frontend:** HTML/CSS, JavaScript 
 * **Backend:** Python
-* **AI Model:** Convolutional Neural Network (CNN) trained on skin lesion datasets (e.g., HAM10000)
-* **Libraries:** TensorFlow / Keras, OpenCV, NumPy, Pandas, Matplotlib
 
 ## 📁 Project Structure
 
