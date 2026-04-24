@@ -1,28 +1,28 @@
 
-# 🧠 Skin Cancer Detection AI
+#  Skin Cancer Detection AI
 
-## 🔍 Overview
+##  Overview
 
 This project uses an AI-powered image classification model to detect the presence of **skin cancer** from an uploaded image. It also provides detailed information about various **cancer-causing skin diseases**, including their severity and whether they are harmful.
 
 check out the website : https://skin-cancer-ai-t54p.onrender.com
-## 🚀 Features
+##  Features
 
-* 📷 **Image Upload & Detection**
+*  **Image Upload & Detection**
   Upload a skin lesion image to detect if it is cancerous or not using a trained AI classification model.
 
-* 🧬 **Disease Information**
+*  **Disease Information**
   Learn about different types of skin diseases that can lead to cancer.
 
-* ⚠️ **Cancer Risk Assessment**
+*  **Cancer Risk Assessment**
   Get insights into the nature of the detected cancer — whether it's **benign** (not harmful) or **malignant** (harmful).
 
-## 🧠 Technology Stack
+##  Technology Stack
 
 * **Frontend:** HTML/CSS, JavaScript 
 * **Backend:** Python
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 skin-cancer-ai/
@@ -54,7 +54,7 @@ skin-cancer-ai/
 ├── details.json                         # Disease info JSON
 ```
 
-## 🧪 How to Use
+##  How to Use
 
 1. Clone this repository:
 
@@ -77,13 +77,13 @@ skin-cancer-ai/
 
 4. Open your browser and go to `http://localhost:5000`
 
-## 📖 Future Improvements
+##  Future Improvements
 
 * Multilingual disease information
 * User health history integration
 
 
-⚠️ Disclaimer
+ Disclaimer
 
 > This tool is for **educational** and **preliminary diagnostic** purposes only. Always consult a certified dermatologist or healthcare provider for medical decisions.
 
